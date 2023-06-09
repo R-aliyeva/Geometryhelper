@@ -1,0 +1,15 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\bin\Debug\net6.0\Mathtask.exe
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\bin\Debug\net6.0\Mathtask.deps.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\bin\Debug\net6.0\Mathtask.runtimeconfig.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\bin\Debug\net6.0\Mathtask.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\bin\Debug\net6.0\Mathtask.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.csproj.CoreCompileInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\refint\Mathtask.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\Mathtask.genruntimeconfig.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Mathtask\Mathtask\obj\Debug\net6.0\ref\Mathtask.dll
